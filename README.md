@@ -15,8 +15,6 @@ Sal’s Shippers has several different options for a customer to ship their pack
 - Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.
 
 
-<br>  
-
 ### Shipping Rates
 
 ![rates](images/sals-shipping-rates.png)
