@@ -37,7 +37,9 @@ else:
 # convert to decimal
 cost_drone_shipping = Decimal(cost_drone_shipping)
 
-
+print(""" 
+Based on a package weight of {weight}lb
+""".format(weight = str(weight)))
 print("Ground Shipping: $" + str(round(cost_ground, 2)))
 print("Ground Shipping Premium: $" + str(round(cost_ground_premium, 2)))
 print("Ground Drone Shipping: $" + str(round(cost_drone_shipping, 2)))
