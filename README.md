@@ -1,5 +1,9 @@
 # Sal's Shipping
 
+![demo](images/sals-shipping.png)
+
+## Description
+
 A shipping.py Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
 
 Sal’s Shippers has several different options for a customer to ship their package:
